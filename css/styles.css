@@ -453,6 +453,69 @@ body {
 }
 
 
+.footer {
+    background: #072135;
+    padding: 120px 0 110px;
+}
+
+.footer__inner {
+    display: flex;
+}
+
+.footer__info {
+    width: 470px;
+    margin-right: 130px;
+}
+
+.footer__filial {
+    width: 170px;
+    margin-right: 130px;
+}
+
+.footer__filial.mr100 {
+    margin-right: 100px;
+}
+
+.footer__logo {
+    font-size: 18px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer__info-text {
+    color: #ffffff;
+    font-size: 14px;
+    line-height: 30px;
+    margin-top: 30px;
+}
+
+.footer__filial-title {
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.footer__filial-address {
+    font-size: 14px;
+    line-height: 30px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.footer__filial-phone,
+.footer__email {
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 15px;
+}
+
+.footer__email {
+    margin-bottom: 0;
+}
+
+
 
 
 
